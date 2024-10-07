@@ -9,4 +9,4 @@ Egy intervallum matematikailag egy speciális halmaznak tekinthető, ezért az a
 
 Az intervallumot a végpontjai még nem teljesen definiálják. Ugyanis azonos végpontértékekkel rendelkező két intervallum különbözhet egymástól attól függően, hogy a végpontértékeket az intervallum értékkészlete tartalmazza vagy sem. Ha az adott végpontot nem tartalmazza, akkor azon az oldalon az intervallum nyitott, ha tartalmazza akkor zárt. Ennek kombinációi (mindkét oldalon zárt, mindkét oldalon nyitott, bal oldalon zárt és jobb oldalon nyitott, bal oldalon nyitott és jobb oldalon zárt) határozzák meg az intervallum típusát. Ezért egy intervallumot két végpontjának értékei és típusa együttesen definiál.
 
-Ebből következik, hogy az intervallum típusát a műveleteknél figyelembe kell venni. Ez az, ami a halmazokhoz képest megnehezíti az intervallumokkal végzett műveletket.
+Ebből következik, hogy az intervallum típusát a műveleteknél figyelembe kell venni. Ez az, ami a halmazokhoz képest megnehezíti az intervallumokkal végzett műveleteket. Az **Interval** metódusai ennek megfelelően működnek.
